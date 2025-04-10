@@ -24,7 +24,7 @@ A fun project simulating a Magic 8-Ball that answers yes/no questions.
 "Purpose": Explore random number generation and decision-making in Python.  
 
 ![Screenshot 2025-04-10 194351](https://github.com/user-attachments/assets/1fc0df52-2aaa-4d00-833c-018cef405f38)
-https://github.com/Hazem0002/Magic-8-Ball
+[https://github.com/Hazem0002/Magic-8-Ball]
 
 ---
 
@@ -33,7 +33,7 @@ A simple Command Line Interface (CLI) game where the player guesses numbers and 
 "Purpose": Learn how to handle user input and control flow in Python.  
 
 ![Screenshot 2025-04-10 194229](https://github.com/user-attachments/assets/9e835ce0-9a3c-432b-b75c-73e4433ddcfb)
-[[GitHub Repo](#)](https://github.com/Hazem0002/Number-Guessing-Game)
+[https://github.com/Hazem0002/Number-Guessing-Game]
 
 ---
 
